@@ -41,6 +41,8 @@ Requirements :
 - Soldering Gun & Iron
 - Soldering Knowledge.
 
+![alt tag](https://github.com/bouletmarc/Arduino_FlashNBurn/blob/master/Tutorial/DIY_PCB5.JPG)
+
 Pros :
 - Small and Portable design
 - No Wires (Mine only as a 'pinout tester' wire/led added)
