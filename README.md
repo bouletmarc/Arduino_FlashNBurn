@@ -12,6 +12,7 @@ IT is 'electronics free', meaning you only need the Arduino, the chip, and a cou
 - Anys others kind of Binary Editor (EEPROM)
 
 # Requirements :
+- Windows (XP, Vista, 7, 8, 10) 32bits & 64bits
 - Arduino Mega 2560
 - 28Pin DIP / EEPROM Chips
 
@@ -25,6 +26,7 @@ Wiring Schema/Diagram between the Arduino and the Chip :
 
 Pros :
 - Very Cheap as it only need a breadboard and Wires
+
 Cons :
 - Take more time to wire with the Arduino
 - Not easily transportable, wires can detach
