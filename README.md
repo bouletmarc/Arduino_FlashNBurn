@@ -2,6 +2,8 @@
 The Arduino Flash&amp;Burn EPROM Programmer can Read/Write/Verify Chips such as 27C256, SST 27SF512, 29C256.
 IT is 'electronics free', meaning you only need the Arduino, the chip, and a couple of wires to make that work.
 
+# Download : [HERE][]
+
 # Which '.bin' Software can works with this ?
 - Crome Tuning
 - BRe
@@ -15,6 +17,7 @@ IT is 'electronics free', meaning you only need the Arduino, the chip, and a cou
 - Windows (XP, Vista, 7, 8, 10) 32bits & 64bits
 - Arduino Mega 2560
 - 28Pin DIP / EEPROM Chips
+- Require Microsoft .net 3.5 installed (Most computer have it)
 
 # Method 1 (Breadboard) :
 Requirements :
@@ -73,3 +76,5 @@ I include the sourc file for those who want to edit then and make there own proj
 Anys kinds of credits and/or referal pages to my github would be very appreciated if you use this source for your own projects.
 
 I can probably give support over EMAIL : Bouletmarc@hotmail.com
+
+[HERE]: <https://github.com/bouletmarc/Arduino_FlashNBurn/archive/master.zip>
