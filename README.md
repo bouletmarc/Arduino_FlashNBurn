@@ -77,4 +77,9 @@ Anys kinds of credits and/or referal pages to my github would be very appreciate
 
 I can probably give support over EMAIL : Bouletmarc@hotmail.com
 
+# Donations :
+
+You can donate to me using [This Link][].
+
+[This Link]: <https://www.paypal.me/bouletmarc>
 [HERE]: <https://github.com/bouletmarc/Arduino_FlashNBurn/archive/master.zip>
