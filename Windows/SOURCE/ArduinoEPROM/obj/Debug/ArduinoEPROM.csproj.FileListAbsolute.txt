@@ -1,9 +1,0 @@
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\obj\Debug\ArduinoEPROM.csprojResolveAssemblyReference.cache
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\obj\Debug\ArduinoEPROM.Form1.resources
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\obj\Debug\ArduinoEPROM.Properties.Resources.resources
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\obj\Debug\ArduinoEPROM.csproj.GenerateResource.Cache
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\bin\Debug\Arduino Flash&Burn.exe.config
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\bin\Debug\Arduino Flash&Burn.exe
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\bin\Debug\Arduino Flash&Burn.pdb
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\obj\Debug\Arduino Flash&Burn.exe
-c:\users\coco\documents\visual studio 2015\Projects\ArduinoEPROM\ArduinoEPROM\obj\Debug\Arduino Flash&Burn.pdb
